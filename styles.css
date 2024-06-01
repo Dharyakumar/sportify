@@ -35,6 +35,13 @@ section {
     margin-bottom: 20px;
 }
 
+.subsection {
+    padding: 10px;
+    border: 1px solid #ddd;
+    background-color: #fff;
+    margin-top: 10px;
+}
+
 footer {
     background: #333;
     color: #fff;
